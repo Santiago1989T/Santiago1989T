@@ -26,6 +26,6 @@ Mi día a día implica la exploración, limpieza y visualización de datos para 
 
 ## ¿Cómo puedes contactarme? 📩
 
-🟦 Encuéntrame en LinkedIn: [Johan Santiago Mateus Alba]((https://www.linkedin.com/in/johan-mateus-8786192b4/))  
+🟦 Encuéntrame en LinkedIn: https://www.linkedin.com/in/johan-mateus-8786192b4/
 🟦 Envíame un correo electrónico a: johanmateus086@gmail.com
 ## ¡Gracias por visitar mi repositorio y aprender un poco sobre mí! 🚀
